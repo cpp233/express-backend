@@ -1,0 +1,4 @@
+.env
+node_modules
+rest.rest
+struct.json
